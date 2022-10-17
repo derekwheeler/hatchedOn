@@ -1,0 +1,201 @@
+{
+	"body": [{
+		"tokenId": 1175,
+		"ownerAddress": "0x1d95af8572170c7f4dd45d1dce052d51b485d606",
+		"hatched": true,
+		"rewardBitmask": 6,
+		"meta": {
+			"name": "Wuffler",
+			"origin": "Earth",
+			"rarity": "Common",
+			"hatchedOn": "2022-03-02T12:26:27.424Z"
+		}
+	}, {
+		"tokenId": 9496,
+		"ownerAddress": "0xd825e94706d13c4c1a980ef923b7b9546fb0063e",
+		"hatched": true,
+		"rewardBitmask": 0,
+		"meta": {
+			"name": "Shelker",
+			"origin": "Water",
+			"rarity": "Common",
+			"hatchedOn": "2022-05-26T16:02:43.574Z"
+		}
+	}, {
+		"tokenId": 4514,
+		"ownerAddress": "0xc78d06a4553f520c861a9a3c380ec25586d1f9fd",
+		"hatched": true,
+		"rewardBitmask": 6,
+		"meta": {
+			"name": "Hazerd",
+			"origin": "Air",
+			"rarity": "Common",
+			"hatchedOn": "2022-02-26T00:11:13.604Z"
+		}
+	}, {
+		"tokenId": 6007,
+		"ownerAddress": "0x5f3fea69bfc3fe51e9e43e3be05dd5794ac50ab6",
+		"hatched": true,
+		"rewardBitmask": 0,
+		"meta": {
+			"name": "Luna",
+			"origin": "Air",
+			"rarity": "Rare",
+			"hatchedOn": "2022-02-26T10:39:19.241Z"
+		}
+	}, {
+		"tokenId": 1433,
+		"ownerAddress": "0x1c9c23e8b9b6f10396a63129d1f258c5debe7256",
+		"hatched": true,
+		"rewardBitmask": 0,
+		"meta": {
+			"name": "Bloop",
+			"origin": "Air",
+			"rarity": "Common",
+			"hatchedOn": "2022-02-25T21:18:43.135Z"
+		}
+	}, {
+		"tokenId": 9443,
+		"ownerAddress": "0x47cefb1c1b63fb5332285fd7d82b1d70fa8457b3",
+		"hatched": true,
+		"rewardBitmask": 0,
+		"meta": {
+			"name": "Spout",
+			"origin": "Water",
+			"rarity": "Common",
+			"hatchedOn": "2022-02-27T19:21:51.591Z"
+		}
+	}, {
+		"tokenId": 2853,
+		"ownerAddress": "0xa9bea5c0c25e4d02d56cbfe9a7564c3ccf599617",
+		"hatched": true,
+		"rewardBitmask": 0,
+		"meta": {
+			"name": "Hazerd",
+			"origin": "Air",
+			"rarity": "Common",
+			"hatchedOn": "2022-02-28T21:34:17.414Z"
+		}
+	}, {
+		"tokenId": 8735,
+		"ownerAddress": "0xeb6d2374fc7a5d4bda3c7d963fb0a00678286e62",
+		"hatched": true,
+		"rewardBitmask": 0,
+		"meta": {
+			"name": "Foxphin",
+			"origin": "Water",
+			"rarity": "Uncommon",
+			"hatchedOn": "2022-05-09T00:06:17.479Z"
+		}
+	}, {
+		"tokenId": 6947,
+		"ownerAddress": "0xd51ba0ba469dd553e516ee9565c3373c591e7de0",
+		"hatched": true,
+		"rewardBitmask": 6,
+		"meta": {
+			"name": "Arachni",
+			"origin": "Water",
+			"rarity": "Common",
+			"hatchedOn": "2022-03-02T11:57:25.956Z"
+		}
+	}, {
+		"tokenId": 7456,
+		"ownerAddress": "0x57a07dcc11c88774e4cb1a23c7d7d4741a2eaa48",
+		"hatched": true,
+		"rewardBitmask": 0,
+		"meta": {
+			"name": "Luna",
+			"origin": "Air",
+			"rarity": "Rare",
+			"hatchedOn": "2022-03-02T11:55:20.118Z"
+		}
+	}, {
+		"tokenId": 3622,
+		"ownerAddress": "0x6550ccd7b3a60cbcb41d0e13f0eedfb5f5f4232e",
+		"hatched": true,
+		"rewardBitmask": 6,
+		"meta": {
+			"name": "Hubb-L",
+			"origin": "Air",
+			"rarity": "Rare",
+			"hatchedOn": "2022-07-07T07:12:05.825Z"
+		}
+	}, {
+		"tokenId": 8387,
+		"ownerAddress": "0x351737a7d4062b88ce1b7f8828fba5040b942039",
+		"hatched": true,
+		"rewardBitmask": 6,
+		"meta": {
+			"name": "Spout",
+			"origin": "Water",
+			"rarity": "Common",
+			"hatchedOn": "2022-02-25T21:12:59.001Z"
+		}
+	}, {
+		"tokenId": 5087,
+		"ownerAddress": "0x7fb615fc9d0db8faaa8916883f6dfe089bbf72ab",
+		"hatched": true,
+		"rewardBitmask": 0,
+		"meta": {
+			"name": "Xanshi",
+			"origin": "Water",
+			"rarity": "Common",
+			"hatchedOn": "2022-03-01T23:03:51.632Z"
+		}
+	}, {
+		"tokenId": 8100,
+		"ownerAddress": "0x1545b7839c438f479e0b07d2d135acfcce2f6074",
+		"hatched": true,
+		"rewardBitmask": 6,
+		"meta": {
+			"name": "Hazerd",
+			"origin": "Air",
+			"rarity": "Common",
+			"hatchedOn": "2022-03-01T13:59:20.695Z"
+		}
+	}, {
+		"tokenId": 1722,
+		"ownerAddress": "0x044c8f54235e5293db95ac58ac6155578b8a695e",
+		"hatched": true,
+		"rewardBitmask": 6,
+		"meta": {
+			"name": "Piu Piu",
+			"origin": "Fire",
+			"rarity": "Common",
+			"hatchedOn": "2022-03-01T05:35:01.638Z"
+		}
+	}, {
+		"tokenId": 5605,
+		"ownerAddress": "0x044c8f54235e5293db95ac58ac6155578b8a695e",
+		"hatched": true,
+		"rewardBitmask": 6,
+		"meta": {
+			"name": "Nom Nom",
+			"origin": "Water",
+			"rarity": "Uncommon",
+			"hatchedOn": "2022-03-01T05:31:06.086Z"
+		}
+	}, {
+		"tokenId": 5723,
+		"ownerAddress": "0xfd5f74b3696ebc6f5695a814b04ea1c654ac427f",
+		"hatched": true,
+		"rewardBitmask": 2,
+		"meta": {
+			"name": "Sharmen",
+			"origin": "Fire",
+			"rarity": "Uncommon",
+			"hatchedOn": "2022-02-25T21:31:36.405Z"
+		}
+	}, {
+		"tokenId": 5528,
+		"ownerAddress": "0x33d6bc02c68de19ba6e37d91517a6f356e6812ee",
+		"hatched": true,
+		"rewardBitmask": 0,
+		"meta": {
+			"name": "Bengu",
+			"origin": "Water",
+			"rarity": "Legendary",
+			"hatchedOn": "2022-02-27T07:40:08.935Z"
+		}
+	}]
+}
